@@ -1,5 +1,5 @@
 <h1 align="center">
-  🤖Send_Email
+  🤖send_email_python
 </h1>
 
 <p></p>
