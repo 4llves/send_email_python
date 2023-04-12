@@ -45,9 +45,15 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 6. Execute a aplicação 
 
+<<<<<<< HEAD
   windows: python .\send_email
   linux: python send_email
   
+=======
+  ```bash
+  python .\send_email
+  ```
+>>>>>>> c49e43d8e7d25be21f2d426f3f93212c22adb492
 
 #### 📌 Importante
 
