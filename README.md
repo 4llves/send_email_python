@@ -50,6 +50,6 @@ linux: python send_email
 
 #### 📌 Importante
 
-- Crie um .env e use o exemplo do **.env.example** mas utilizando suas informações.
+- Crie um .env e use o a key gerada no item 4 acima e seu email, use o **.env.example** como modelo.
 
 - Como o projeto ainda é novo e está em fase de testes aconselho enviar o email para si mesmo antes de testar enviar para outra pessoa ^^
