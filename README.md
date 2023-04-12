@@ -15,9 +15,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 1. Clone este repositório
 
-	```bash
-	git clone https://github.com/4llves/send_email_python
-	```
+  ```bash
+  git clone https://github.com/4llves/send_email_python
+  ```
 
 2. Acesse a pasta do projeto no seu *vscode*
 	
@@ -39,21 +39,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 4. Gerar a key do gmail que será usada no .env
 
-  <img alt="Generate Key" src="https://github.com/4llves/send_email_python/blob/master/.github/generate_key.gif" />
+  <img alt="Generate Key" src="https://github.com/4llves/send_email_python/blob/main/.github/generate_key.gif" />
 
 5. Preencha a planilha com os dados necessários.
 
 6. Execute a aplicação 
 
-<<<<<<< HEAD
-  windows: python .\send_email
-  linux: python send_email
-  
-=======
-  ```bash
-  python .\send_email
-  ```
->>>>>>> c49e43d8e7d25be21f2d426f3f93212c22adb492
+windows: python .\send_email
+linux: python send_email
 
 #### 📌 Importante
 
