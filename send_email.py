@@ -30,7 +30,7 @@ for index, row in diretorios_df.iterrows():
         'email': email,
         'diretorio': diretorio,
         'titulo': titulo_do_email,
-        'corpo': corpo_do_email        
+        'corpo': corpo_do_email
     })
 
 # Percorre cada destinatário na lista e envia os arquivos correspondentes
