@@ -23,32 +23,31 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 	
 3. Instale as libs
 
-	pandas:
   ```bash
-	pip install pandas
-	```
+  pip install pandas
+  ```
   
-  openpyxl:
-  ```bash
-	pip install openpyxl
-	```
   
-  decouple:
   ```bash
-	pip install python-decouple
-	```
+  pip install openpyxl
+  ```
+  
+  
+  ```bash
+  pip install python-decouple
+  ```
 
 4. Gerar a key do gmail que será usada no .env
 
-	<img alt="Generate Key" src="https://github.com/4llves/send_email_python/blob/master/.github/generate_key.gif" />
+  <img alt="Generate Key" src="https://github.com/4llves/send_email_python/blob/master/.github/generate_key.gif" />
 
 5. Preencha a planilha com os dados necessários.
 
 6. Execute a aplicação 
 
-	```bash
-	python .\send_email
-	```
+  ```bash
+  python .\send_email
+  ```
 
 #### 📌 Importante
 
